@@ -80,20 +80,6 @@ Mejor y peor mes
 
 No solo gráfica. Explicación.
 
-6️⃣ Análisis de Descuentos
-
-Muy importante.
-
-¿Más descuento = más ventas?
-
-¿Más descuento = menos ganancia?
-
-Relación descuento-ganancia
-
-¿Hay productos que están siendo mal descontados?
-
-Aquí quiero pensamiento crítico.
-
 7️⃣ Correlaciones
 
 Haz matriz de correlación entre:
@@ -109,20 +95,3 @@ Descuento
 Interpreta cada relación.
 No solo pongas la matriz.
 
-8️⃣ Conclusiones Estratégicas
-
-Aquí es donde separas a un estudiante de un analista.
-
-Responde como si fueras consultor:
-
-¿Qué debería hacer la empresa?
-
-¿Qué dejar de hacer?
-
-¿Dónde invertir?
-
-¿Qué categoría optimizar?
-
-¿Qué política de descuento cambiar?
-
-Mínimo 5 recomendaciones concretas.
